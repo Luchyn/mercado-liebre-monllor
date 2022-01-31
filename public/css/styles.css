@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'roboto';
+    background-color:#EAC926;
+}
+
+  p  {font-size: 12px;
+    
+     }
+     
+
+#logo{
+    width: 10rem;
+    height: 10rem;
+}
+/*------------------------------estilo visitas y ofertas----------------------------------*/
+
+.visita-oferta{
+            font-size: 24px;
+}
+p.precio{
+    font-size: 18px;
+}
+p.oferta{
+    font-size: 16px;
+}
+p.descri{
+    font-size: 16px;
+}
+/*  ------------------------------ICONOS--------------------------------*/
+.fas{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.far{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.footer{
+    text-align: center;
+    width: 380px;
+    background-color: white;
+    padding: 2em;
+    border:30px;
+    border-color:#666 ;
+}
+.footer i {
+
+        color:#1259c3;
+}
